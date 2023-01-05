@@ -1,0 +1,8 @@
+For the case where h is small i.e. 0.5*Δtstab, both explicit forward euler and implicit backward euler
+give the same result.
+This result matches with analytical result which is also plotted.
+
+But when h is large i.e. 10*Δtsta, explicit euler blows up as expected. But the implicit one also blows
+up. 
+
+This is because of stiff ODE. We need higher order implicit method.

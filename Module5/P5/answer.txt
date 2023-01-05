@@ -1,0 +1,3 @@
+Without air resistance the range and the distance travelled over groun is maximum.
+As the mass is increased, the distance travelled increases and approaches the without air resistance case.
+With increase in mass the resistance decreases.

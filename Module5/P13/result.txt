@@ -1,0 +1,13 @@
+from the graph the value of initial θ for which ξ=2, should lie between 3 and 4.
+
+Newton Raphson iterations:
+
+iteration    value of θ initial
+0           1.5
+1           2.36267
+2           3.12517
+3           3.41802
+4           3.44469
+
+
+So value of θ initial for which ξ=2, is calculated by newton raphson to be 3.44469

@@ -1,0 +1,5 @@
+The plot shows the dynamics of equilibrium. 
+The fox population comes down as the number of rabbit population reduce due to unavailability of food.
+As the fox population comes down, the rabbit population grows due to less hunting.
+As the rabbit population grows, it means abundant food suppy for fox and they grow in number leading to decrese in rabbit population.
+And the cycle continues.
