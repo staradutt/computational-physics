@@ -1,0 +1,20 @@
+part A
+
+Desired input revolution time for satellite in s = 86400.0
+Calculated altitude in km= 35862.60582795607
+
+part B
+
+Altitude of satellite that orbit earth once every day: 35862.60582795607 km
+Altitude of satellite that orbit earth once every 90 min: 274.3943043823624 km
+Altitude of satellite that orbit earth once every 45 min: -2187.291195801455 km
+
+As altitude cannot be negative,it suggests that there is a minimum time period at which altitude is zero.
+The satellite grazes the surface of earth in that case.
+
+part C
+
+Altitude of geosynchronous satellite:35780.43114374147km
+The earth takes 23hrs56min i.e.23.93hrs to complete a rotation,but between two sunrise in a given place on earth 
+the time is 24hr. This is because of revolution of earth for which it needs to rotate 4 more minutes to catch up with the sun.
+Altitude difference: 82.17468421459198km

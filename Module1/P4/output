@@ -1,0 +1,21 @@
+
+Earth
+
+Aphelion distance(l2) = 152029769659.5963m
+Aphelion velocity(v2) = 29304.903309236717m/s
+Time Period = 365.0879438052096days
+Eccentricity = 0.016480371262299627
+
+Halley
+
+Aphelion distance(l2) = 5284903391548.643m
+Aphelion velocity(v2) = 906.2194169261039m/s
+Time Period = 27790.795103789103days = 76.13916466791535earth years 
+Eccentricity = 0.9673052825818018
+
+User Input
+
+Aphelion distance(l2) = 249014351325.57397m
+Aphelion velocity(v2) = 21988.411394173607m/s
+Time Period = 686.3295935182913days 
+Eccentricity = 0.09304467760658597
