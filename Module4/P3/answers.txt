@@ -1,0 +1,8 @@
+Frequency with highest amplitude for piano = 524.7 Hz
+Frequency with highest amplitude for trumpet = 1043.89 Hz
+
+In case of piano, the note is purer and overtones are suppressed. In case of trumpet the overtones are stronger, so much so that the 1st overtone (@ 1043.89Hz) is stronger than Fundamental frequency(@ 521.7 Hz)
+
+Musical note corresponding to 524.7 Hz in piano is C5.
+Musical note corresponding to 1043.89 Hz(Highest peak) and 521.7 Hz(Fundamental) in trumpet are C6 and C5 respectively.
+

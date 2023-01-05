@@ -1,0 +1,4 @@
+Part a
+Wien's const= 0.0028977729145262853 m K
+Part b
+Temp. of the Sun= 5772.456005032441 K

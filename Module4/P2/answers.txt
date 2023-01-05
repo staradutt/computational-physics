@@ -1,0 +1,6 @@
+From visual observation it is evident that the peaks are separated by~130.
+
+From power spectrum we see peak at k=24.
+So, f = k / L = 0.0076 which means, T = 1 / f = 131
+
+The values are similar.

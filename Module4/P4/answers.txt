@@ -1,0 +1,8 @@
+For the data which varies faster, the lower frequency fourier approximation works best,
+as it helps to smoothen the data by loss of High frequency data i.e. noise.
+
+But when it comes to slow varying data, low frequency approximation leads to loss of data
+itself which leads to wiggles and artifacts. 
+
+So in square wave, high frequency terms have 
+information for discontinuity and flat top so this information is lost when we do low frequency approximation.

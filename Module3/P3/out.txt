@@ -1,0 +1,7 @@
+analytical derivative for function x*(x-1) at x=1 is 2*1-1 i.e. 1.
+derivative computed using delta = 10^(-2) is 1.010000000000001,accuracy = 100.00000000000009%
+derivative computed using delta = 10^(-4) is 1.0000999999998899,accuracy = 99.00999999998899%
+derivative computed using delta = 10^(-6) is 1.0000009999177333,accuracy = 99.00009999177333%
+derivative computed using delta = 10^(-8) is 1.0000000039225287,accuracy = 99.00000039225287%
+derivative computed using delta = 10^(-10) is 1.000000082840371,accuracy = 99.00000828403711%
+derivative computed using delta = 10^(-12) is 1.0000889005833413,accuracy = 99.00889005833413%

@@ -1,0 +1,2 @@
+Distance (r) of L1 point is: 3.2629e8 metres
+Ratio of distance of L1 point to R: 0.8488370379733582

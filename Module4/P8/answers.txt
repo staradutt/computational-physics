@@ -1,0 +1,14 @@
+For better deblurring, we need narrower PSF(point spread function) which can result in very low
+values at lower frequencies.
+
+In the algo, if PSF goes below threshgold value, we dont change the fourier trasform of blurred 
+photo. After several iterations of deblurring, the PSF will be so narrow that all frequencie le-
+ss than threshold frequency(which corresponds to highest data that can be stored at that resolu
+tion) will have very low coefficients.
+
+So image will not change on further iterations.So deblurring can be thought to be limited by re-
+solution of image.
+
+Also information loss happens due to gaussian blur which kills some fourier components so much 
+that we can't divide to retrieve them anymore. 
+

@@ -1,0 +1,7 @@
+solution of 0.001(x^2)+1000x+0.001 by first method is :[-9.999894245993346e-07, -999999.999999].
+solution of 0.001(x^2)+1000x+0.001 by second method is :[-1.000000000001e-06, -1000010.5755125057]
+
+When we subtract two closeby numbers we generate errors if the difference is close to
+to machine precision. So the correct way is to select one root from each method so that the problem is avoided.
+
+solution of 0.001(x^2)+1000x+0.001 by correct method is :[-1.000000000001e-06, -999999.999999]
