@@ -1,0 +1,2 @@
+Reflection is observed at the box boundary.
+Spreading of the wave packet happens because wave components with different wavelengths travel with different speed.

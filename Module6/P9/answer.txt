@@ -1,0 +1,3 @@
+From the potential plots it is clear that the SOR converges faster than jacobi.
+
+For the L1 vs iter, the difference between two consecutive iterations is plotted.

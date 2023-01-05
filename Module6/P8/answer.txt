@@ -1,0 +1,6 @@
+For the advection case, when we implement Lax wendroff with viscosity, the oscillations reduce.
+
+For burgers case, when we implement Lax-Wendroff with viscosity with qcon=~0.923 we get good stability but
+minor fluctuations still remain near the peaks.
+
+Also it is noticed, that the upwind scheme fails once the shockwave forms at around t=0.1.

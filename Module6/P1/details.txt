@@ -1,0 +1,3 @@
+time taken =  32.83136343955994
+iterations =  2119
+max error final =  9.995414111136497e-07
