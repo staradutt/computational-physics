@@ -1,0 +1,2 @@
+minima for function1 =  0.0
+minima for function2 =  15.96

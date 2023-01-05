@@ -1,0 +1,3 @@
+Actual probability of getting 2 sixes in a throw of double dice: 0.027778,
+
+Probability from running simulation for million throws: 0.027696.

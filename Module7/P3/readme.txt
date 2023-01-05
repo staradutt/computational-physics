@@ -1,0 +1,2 @@
+Since for L=101 & 1 million steps, the entire pic gets covered, plots for 10k,100k are plotted to show progression.
+Also plot is made for L=1001 for which 1 million steps gives a better picture of random walk.

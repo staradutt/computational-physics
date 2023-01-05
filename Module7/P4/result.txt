@@ -1,0 +1,10 @@
+Hit and Miss method
+.............................
+value of integral =  1.4564
+error =  0.00889774713059435
+
+
+Mean value method
+.............................
+value of integral =  1.452653153157397
+error =  0.005279308219002599

@@ -1,0 +1,2 @@
+For faster cooling schedule (tau=10000), poorer solution with large gaps in between is observed.
+For slower cooling (tau=100), good packing is observed.

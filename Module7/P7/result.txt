@@ -1,0 +1,18 @@
+
+The function for calculating total enegy is included in the program. It is named totalenergy. It takes the state as argument and 
+returns the energy.
+
+From various runs it is seen that,
+	A decrease in magnetisation is observed from T=1 to T=2 at equilibrium. At T=3, the magnetisation is approximately 0 fluctuating
+	with some random noise. This is also seen in the final equilibrium snapshots where :
+		for T=1 almost all(~100%) lattice points have the same spin
+		for T=2 majority(~95%) of lattice points have same spin while rest (5%) have opposie spin.
+		for T=3 it is almost random ie 50:50 up & down 
+
+It can be safely guessed that the critical temperature for phase transition is somewhere between T=2 and T=3.
+
+
+
+#note
+The sign of magnetisation is random, we get positive magnetisation for half the time and negative for other half.
+So the sign of magnetisation is arbitrary. The Ising model has no preference for up/down spins in absence of any magnetic field. 

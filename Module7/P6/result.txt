@@ -1,0 +1,1 @@
+value of integral (by importance sampling, mean value method) =  0.8390408339080184
