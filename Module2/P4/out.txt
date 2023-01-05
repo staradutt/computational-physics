@@ -1,0 +1,4 @@
+stefans constant calculated by the program = 5.670366533680425e-08
+wikipedia value = 5.670367e-8, indicating  99.99999177620117%  agreement
+analytical error:
+value of integral approximated analytically from upper limit(1000) to +inf = 3.8339326213429296e-38

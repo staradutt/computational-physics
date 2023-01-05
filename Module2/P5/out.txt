@@ -1,0 +1,1 @@
+uncertainty in pos for n=5 is 2.3452078797796547
