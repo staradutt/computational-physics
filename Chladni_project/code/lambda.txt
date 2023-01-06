@@ -1,0 +1,17 @@
+lambda values 
+ computed by this prog.  computed value from#1  experimental#1
+12.4                      12.5                     12.4 
+25.9                      26.0                     26.4 
+35.6                      35.6                     36.2 
+80.8                      80.9                     77.5 
+234.9                      235.4                     215.0 
+269.0                      269.3                     260.0 
+320.1                      320.7                     310.0 
+374.6                      375.2                     364.0 
+728.7                      730.0                     698.0 
+
+
+
+
+#1 Pg140, vol 720, Spectral theory and Applications,
+   CRM Summer School July 4–14, 2016, Université Laval, Québec, Canada
