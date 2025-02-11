@@ -1,4 +1,4 @@
-Welcome to my collection of Python programs for solving physics problems!
+A collection of Python programs for solving physics problems!
 In this repository, you will find a variety of programs that demonstrate 
 how to use Python to solve a range of physics problems,from classical 
 mechanics to quantum mechanics and beyond. 
